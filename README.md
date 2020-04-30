@@ -1,4 +1,4 @@
-# Media keys shortcuts for AutoHotkey
+# Media keys on script
 
  * <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd> : **Pause**
  * <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Right</kbd> : **Next**
